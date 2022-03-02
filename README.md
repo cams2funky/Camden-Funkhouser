@@ -3,7 +3,7 @@
      width = "300"
      height = "300"/>
 # Camden-Funkhouser
-<h2>Resume</h2>
+<h2>Virtual Resume</h2>
 <p><h3>Education</h3>
 <h4>The University of Colorado Boulder</h4>
 Candidate for Master’s of Science in Business Analytics<br><br>
