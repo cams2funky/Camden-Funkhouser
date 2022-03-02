@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/40032328/156269284-f74bc0b5-0b9f-4303-b4f2-81f3831b2c83.png"
      width = "300"
      height = "300"/>
-#Camden Funkhouser
+# Camden Funkhouser
 <h2>Virtual Resume</h2>
 <p><h3>Education</h3>
 <h4>The University of Colorado Boulder</h4>
